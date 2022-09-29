@@ -3,7 +3,7 @@ title: 使用 NexT 主题搭建 GitHub Blog
 # description: 使用 NexT 主题搭建 GitHub Blog
 # date: 2022-09-02
 categories:
-- 备忘
+- 笔记
 tags:
 - 主题
 ---
